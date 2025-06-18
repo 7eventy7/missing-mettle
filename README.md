@@ -13,11 +13,11 @@ A modern, dark-themed desktop application for Team Fortress 2 players to track m
 
 ## Features
 
-- **Comprehensive Weapon Tracking**: Automatically detects all weapon qualities (Strange, Vintage, Genuine, Killstreak, etc.)
-- **Smart Name Matching**: Removes quality prefixes to accurately match weapons (e.g., "Strange Killstreak Natascha" → "Natascha")
+- **Comprehensive Weapon Tracking**: Automatically detects all weapon qualities
+- **Smart Name Matching**: Removes quality prefixes to accurately match weapons
 - **Dual Display**: Side-by-side view of missing weapons and obtained weapons
 - **Advanced Filtering**: Filter missing weapons by class, slot, and type
-- **Dark Theme UI**: Modern, easy-on-the-eyes interface optimized for 1920x1080 displays
+- **Dark Theme UI**: Modern, easy-on-the-eyes dark themed interface 
 - **Steam Integration**: Works with SteamID64, custom URLs, or profile URLs
 - **Real-time Status**: Live updates during inventory scanning with pagination support
 
