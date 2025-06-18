@@ -35,11 +35,6 @@ A modern, dark-themed desktop application for Team Fortress 2 players to track m
    - Download the latest release and unzip it
    - Run `main.pyw` to start the application
 
-4. **Get Steam API Key**
-   - Visit [Steam Web API Key Registration](https://steamcommunity.com/dev/apikey)
-   - Register with any domain name (e.g., "localhost")
-   - Copy your API key
-
 ## Setup Instructions
 
 ### 1. Steam Profile Configuration
@@ -65,6 +60,11 @@ your_username
 https://steamcommunity.com/id/your_username
 https://steamcommunity.com/profiles/76561198123456789
 ```
+
+### 3. Get Steam API Key
+   - Visit [Steam Web API Key Registration](https://steamcommunity.com/dev/apikey)
+   - Register with any domain name (e.g., "localhost")
+   - Copy your API key
 
 ## Troubleshooting
 
