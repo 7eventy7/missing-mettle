@@ -1,0 +1,1546 @@
+[
+  {
+    "name": "Pistol",
+    "tag": "02SN",
+    "class": 0,
+    "slot": 2,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Shotgun",
+    "tag": "02SN",
+    "class": 0,
+    "slot": 2,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Reserve Shooter",
+    "tag": "02UN",
+    "class": 0,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Panic Attack",
+    "tag": "02UN",
+    "class": 0,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "B.A.S.E. Jumper",
+    "tag": "02UN",
+    "class": 0,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Pain Train",
+    "tag": "03UN",
+    "class": 0,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Half-Zatoichi",
+    "tag": "03UN",
+    "class": 0,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Scattergun",
+    "tag": "11SN",
+    "class": 1,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Force-A-Nature",
+    "tag": "11UN",
+    "class": 1,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Shortstop",
+    "tag": "11UN",
+    "class": 1,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Soda Popper",
+    "tag": "11UN",
+    "class": 1,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Baby Face's Blaster",
+    "tag": "11UN",
+    "class": 1,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Back Scatter",
+    "tag": "11UN",
+    "class": 1,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Lugermorph",
+    "tag": "12UR",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "C.A.P.P.E.R",
+    "tag": "12UR",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Winger",
+    "tag": "12UN",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Pretty Boy's Pocket Pistol",
+    "tag": "12UN",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Flying Guillotine",
+    "tag": "12UN",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bonk! Atomic Punch",
+    "tag": "12UN",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Crit-a-Cola",
+    "tag": "12UN",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Mad Milk",
+    "tag": "12UN",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Mutated Milk",
+    "tag": "12UR",
+    "class": 1,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Bat",
+    "tag": "13SN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Holy Mackerel",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Unarmed Combat",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Batsaber",
+    "tag": "13UR",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Sandman",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Candy Cane",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Boston Basher",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Three-Rune Blade",
+    "tag": "13UR",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Sun-on-a-Stick",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Fan O'War",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Atomizer",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Wrap Assassin",
+    "tag": "13UN",
+    "class": 1,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Rocket Launcher",
+    "tag": "21SN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Original",
+    "tag": "21UR",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Direct Hit",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Black Box",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Rocket Jumper",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Liberty Launcher",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Cow Mangler 5000",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Beggar's Bazooka",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Air Strike",
+    "tag": "21UN",
+    "class": 2,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Buff Banner",
+    "tag": "22UN",
+    "class": 2,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Gunboats",
+    "tag": "22UN",
+    "class": 2,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Battalion's Backup",
+    "tag": "22UN",
+    "class": 2,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Concheror",
+    "tag": "22UN",
+    "class": 2,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Mantreads",
+    "tag": "22UN",
+    "class": 2,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Righteous Bison",
+    "tag": "22UN",
+    "class": 2,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Shovel",
+    "tag": "23SN",
+    "class": 2,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Equalizer",
+    "tag": "23UN",
+    "class": 2,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Disciplinary Action",
+    "tag": "23UN",
+    "class": 2,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Market Gardener",
+    "tag": "23UN",
+    "class": 2,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Escape Plan",
+    "tag": "23UN",
+    "class": 2,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Flame Thrower",
+    "tag": "31SN",
+    "class": 3,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Rainblower",
+    "tag": "31UR",
+    "class": 3,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Nostromo Napalmer",
+    "tag": "31UR",
+    "class": 3,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Backburner",
+    "tag": "31UN",
+    "class": 3,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Degreaser",
+    "tag": "31UN",
+    "class": 3,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Phlogistinator",
+    "tag": "31UN",
+    "class": 3,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Dragon's Fury",
+    "tag": "31UN",
+    "class": 3,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Flare Gun",
+    "tag": "32UN",
+    "class": 3,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Detonator",
+    "tag": "32UN",
+    "class": 3,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Manmelter",
+    "tag": "32UN",
+    "class": 3,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Scorch Shot",
+    "tag": "32UN",
+    "class": 3,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Thermal Thruster",
+    "tag": "32UN",
+    "class": 3,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Gas Passer",
+    "tag": "32UN",
+    "class": 3,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Fire Axe",
+    "tag": "33SN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Lollichop",
+    "tag": "33UR",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Axtinguisher",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Postal Pummeler",
+    "tag": "33UR",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Homewrecker",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Maul",
+    "tag": "33UR",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Powerjack",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Back Scratcher",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Sharpened Volcano Fragment",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Third Degree",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Neon Annihilator",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Hot Hand",
+    "tag": "33UN",
+    "class": 3,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Grenade Launcher",
+    "tag": "41SN",
+    "class": 4,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Loch-n-Load",
+    "tag": "41UN",
+    "class": 4,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Ali Baba's Wee Booties",
+    "tag": "41UN",
+    "class": 4,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bootlegger",
+    "tag": "41UR",
+    "class": 4,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Loose Cannon",
+    "tag": "41UN",
+    "class": 4,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Iron Bomber",
+    "tag": "41UN",
+    "class": 4,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Stickybomb Launcher",
+    "tag": "42SN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Scottish Resistance",
+    "tag": "42UN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Chargin' Targe",
+    "tag": "42UN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Sticky Jumper",
+    "tag": "42UN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Splendid Screen",
+    "tag": "42UN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Tide Turner",
+    "tag": "42UN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Quickiebomb Launcher",
+    "tag": "42UN",
+    "class": 4,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bottle",
+    "tag": "43SN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Scottish Handshake",
+    "tag": "43UR",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Eyelander",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Horseless Headless Horsemann's Headtaker",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Nessie's Nine Iron",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Scotsman's Skullcutter",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Ullapool Caber",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Claidheamh Mòr",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Persian Persuader",
+    "tag": "43UN",
+    "class": 4,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Minigun",
+    "tag": "51SN",
+    "class": 5,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Iron Curtain",
+    "tag": "51UR",
+    "class": 5,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Natascha",
+    "tag": "51UN",
+    "class": 5,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Brass Beast",
+    "tag": "51UN",
+    "class": 5,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Tomislav",
+    "tag": "51UN",
+    "class": 5,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Huo-Long Heater",
+    "tag": "51UN",
+    "class": 5,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Family Business",
+    "tag": "52UN",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Sandvich",
+    "tag": "52UN",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Robo-Sandvich",
+    "tag": "52UR",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Dalokohs Bar",
+    "tag": "52UN",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Fishcake",
+    "tag": "52UR",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Buffalo Steak Sandvich",
+    "tag": "52UN",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Second Banana",
+    "tag": "52UN",
+    "class": 5,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Fists",
+    "tag": "53SN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Apoco-Fists",
+    "tag": "53UR",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Killing Gloves of Boxing",
+    "tag": "53UN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Gloves of Running Urgently",
+    "tag": "53UN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bread Bite",
+    "tag": "53UR",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Warrior's Spirit",
+    "tag": "53UN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Fists of Steel",
+    "tag": "53UN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Eviction Notice",
+    "tag": "53UN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Holiday Punch",
+    "tag": "53UN",
+    "class": 5,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Frontier Justice",
+    "tag": "61UN",
+    "class": 6,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Widowmaker",
+    "tag": "61UR",
+    "class": 6,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Pomson 6000",
+    "tag": "61UN",
+    "class": 6,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Rescue Ranger",
+    "tag": "61UN",
+    "class": 6,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Wrangler",
+    "tag": "62UN",
+    "class": 6,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Giger Counter",
+    "tag": "62UR",
+    "class": 6,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Short Circuit",
+    "tag": "62UN",
+    "class": 6,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Wrench",
+    "tag": "63SN",
+    "class": 6,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Golden Wrench",
+    "tag": "63UR",
+    "class": 6,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Gunslinger",
+    "tag": "63UN",
+    "class": 6,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Southern Hospitality",
+    "tag": "63UN",
+    "class": 6,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Jag",
+    "tag": "63UN",
+    "class": 6,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Eureka Effect",
+    "tag": "63UN",
+    "class": 6,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Syringe Gun",
+    "tag": "71SN",
+    "class": 7,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Blutsauger",
+    "tag": "71UN",
+    "class": 7,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Crusader's Crossbow",
+    "tag": "71UN",
+    "class": 7,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Overdose",
+    "tag": "71UN",
+    "class": 7,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Medi Gun",
+    "tag": "72SN",
+    "class": 7,
+    "slot": 2,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Kritzkrieg",
+    "tag": "72UN",
+    "class": 7,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Quick-Fix",
+    "tag": "72UN",
+    "class": 7,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Vaccinator",
+    "tag": "72UN",
+    "class": 7,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bonesaw",
+    "tag": "73SN",
+    "class": 7,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Ubersaw",
+    "tag": "73UN",
+    "class": 7,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Vita-Saw",
+    "tag": "73UN",
+    "class": 7,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Amputator",
+    "tag": "73UN",
+    "class": 7,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Solemn Vow",
+    "tag": "73UN",
+    "class": 7,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Sniper Rifle",
+    "tag": "81SN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "AWPer Hand",
+    "tag": "81UR",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Huntsman",
+    "tag": "81UN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Fortified Compound",
+    "tag": "81UR",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Sydney Sleeper",
+    "tag": "81UN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bazaar Bargain",
+    "tag": "81UN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Machina",
+    "tag": "81UN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Shooting Star",
+    "tag": "81UR",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Hitman's Heatmaker",
+    "tag": "81UN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Classic",
+    "tag": "81UN",
+    "class": 8,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "SMG",
+    "tag": "82SN",
+    "class": 8,
+    "slot": 2,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Cleaner's Carbine",
+    "tag": "82UN",
+    "class": 8,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Jarate",
+    "tag": "82UN",
+    "class": 8,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Self-Aware Beauty Mark",
+    "tag": "82UR",
+    "class": 8,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Razorback",
+    "tag": "82UN",
+    "class": 8,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Darwin's Danger Shield",
+    "tag": "82UN",
+    "class": 8,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Cozy Camper",
+    "tag": "82UN",
+    "class": 8,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Kukri",
+    "tag": "83SN",
+    "class": 8,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Tribalman's Shiv",
+    "tag": "83UN",
+    "class": 8,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Bushwacka",
+    "tag": "83UN",
+    "class": 8,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Shahanshah",
+    "tag": "83UN",
+    "class": 8,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Revolver",
+    "tag": "91SN",
+    "class": 9,
+    "slot": 1,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Big Kill",
+    "tag": "91UR",
+    "class": 9,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Ambassador",
+    "tag": "91UN",
+    "class": 9,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "L'Etranger",
+    "tag": "91UN",
+    "class": 9,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Enforcer",
+    "tag": "91UN",
+    "class": 9,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Diamondback",
+    "tag": "91UN",
+    "class": 9,
+    "slot": 1,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Invis Watch",
+    "tag": "92SN",
+    "class": 9,
+    "slot": 2,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Enthusiast's Timepiece",
+    "tag": "92UR",
+    "class": 9,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Quäckenbirdt",
+    "tag": "92UR",
+    "class": 9,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Cloak and Dagger",
+    "tag": "92UN",
+    "class": 9,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Dead Ringer",
+    "tag": "92UN",
+    "class": 9,
+    "slot": 2,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Knife",
+    "tag": "93SN",
+    "class": 9,
+    "slot": 3,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Sharp Dresser",
+    "tag": "93UR",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Black Rose",
+    "tag": "93UR",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Your Eternal Reward",
+    "tag": "93UN",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Wanga Prick",
+    "tag": "93UR",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Conniver's Kunai",
+    "tag": "93UN",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Big Earner",
+    "tag": "93UN",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Spy-cicle",
+    "tag": "93UN",
+    "class": 9,
+    "slot": 3,
+    "tier": "Unlock",
+    "type": "Normal"
+  },
+  {
+    "name": "Sapper",
+    "tag": "94SN",
+    "class": 9,
+    "slot": 4,
+    "tier": "Stock",
+    "type": "Normal"
+  },
+  {
+    "name": "Ap-Sap",
+    "tag": "94UR",
+    "class": 9,
+    "slot": 4,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Snack Attack",
+    "tag": "94UR",
+    "class": 9,
+    "slot": 4,
+    "tier": "Unlock",
+    "type": "Reskin"
+  },
+  {
+    "name": "Red-Tape Recorder",
+    "tag": "94UN",
+    "class": 9,
+    "slot": 4,
+    "tier": "Unlock",
+    "type": "Normal"
+  }
+]
